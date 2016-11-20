@@ -27,7 +27,7 @@ MyApplet.prototype = {
         } else {
             Meta.enable_unredirect_for_screen(global.get_screen())
             this.set_applet_icon_name("non-starred-symbolic");
-        this.set_applet_tooltip("Click to force all windows to be redirected");
+            this.set_applet_tooltip("Click to force all windows to be redirected");
             this._enabled = false;
         }
     },

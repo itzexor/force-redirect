@@ -1,0 +1,8 @@
+{
+    "description": "Force redirection of all windows", 
+    "max-instances": "1", 
+    "dangerous": false, 
+    "uuid": "force-redirect@exor", 
+    "name": "Force Redirection", 
+    "icon": "non-starred-symbolic"
+}
